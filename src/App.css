@@ -115,3 +115,17 @@ button:first-of-type{
 button:last-of-type{
   margin-left: 10px;
 }
+
+.player-container {
+  padding: 0 5%;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  height: 50px;
+  line-height: 50px;
+  font-size: 1.3em;
+  font-weight: bold;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
